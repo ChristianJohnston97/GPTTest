@@ -1,6 +1,10 @@
 
 ## Digital Advertising AI-powered Sales Assistant 
 
+[streamlit-about-2023-11-18-11-11-14.webm](https://github.com/ChristianJohnston97/GPTTest/assets/25692533/e0b78ac8-ed46-4545-8a26-e9c0a30b58fc)
+
+
+
 ### Background
 In the digital advertising industry, advertisers want to target particular users based 
 on targeting requirements. For example Nike would like to target users of a certain demographic
