@@ -1,10 +1,11 @@
 
 ## Digital Advertising AI-powered Sales Assistant 
 
-NOTE: THIS IS JUST A DEMO APPLICATION FOR MY OWN LEARNING AND IS INTENDED IN NO WAY TO BE COMERCIALISED.
+### Disclaimed
+THIS IS JUST A DEMO APPLICATION FOR MY OWN LEARNING AND IS INTENDED IN NO WAY TO BE COMERCIALISED.
 
+### Video
 [streamlit-about-2023-11-18-11-11-14.webm](https://github.com/ChristianJohnston97/GPTTest/assets/25692533/e0b78ac8-ed46-4545-8a26-e9c0a30b58fc)
-
 
 
 ### Background
