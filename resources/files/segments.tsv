@@ -1,0 +1,96 @@
+	Segment ID	Parent ID	Name
+	2	2	Demographic | Age Range | 18-20 |	Demographic	Age Range	15-18				
+	3	2	Demographic | Age Range | 18-20 |	Demographic	Age Range	18-20				
+	4	2	Demographic | Age Range | 21-24 |	Demographic	Age Range	21-24				
+	5	2	Demographic | Age Range | 25-29 |	Demographic	Age Range	25-29				
+	6	2	Demographic | Age Range | 30-34 |	Demographic	Age Range	30-34	
+    7	2	Demographic | Age Range | 35-39 |	Demographic	Age Range	35-39				
+    8	2	Demographic | Age Range | 40-44 |	Demographic	Age Range	40-44		
+    9	2	Demographic | Age Range | 45-49 |	Demographic	Age Range	45-49							
+	606	206	Interest | Shopping	Interest	Shopping					
+	607	206	Interest | Sports	Interest	Sports					
+	608	607	Interest | Sports | American Football |	Interest	Sports	American Football				
+	609	607	Interest | Sports | Australian Rules Football |	Interest	Sports	Australian Rules Football				
+	610	607	Interest | Sports | Auto Racing |	Interest	Sports	Auto Racing				
+	611	610	Interest | Sports | Motorcycle Sports |	Interest	Sports	Auto Racing	Motorcycle Sports			
+	612	607	Interest | Sports | Badminton |	Interest	Sports	Badminton				
+	613	607	Interest | Sports | Baseball |	Interest	Sports	Baseball				
+	614	607	Interest | Sports | Basketball |	Interest	Sports	Basketball				
+	615	607	Interest | Sports | Beach Volleyball |	Interest	Sports	Beach Volleyball				
+	616	607	Interest | Sports | Bodybuilding |	Interest	Sports	Bodybuilding				
+	617	607	Interest | Sports | Bowling |	Interest	Sports	Bowling				
+	618	607	Interest | Sports | Boxing |	Interest	Sports	Boxing				
+	619	607	Interest | Sports | Cheerleading |	Interest	Sports	Cheerleading				
+	620	607	Interest | Sports | College Sports |	Interest	Sports	College Sports				
+	621	620	Interest | Sports | College Football |	Interest	Sports	College Sports	College Football			
+	622	620	Interest | Sports | College Basketball |	Interest	Sports	College Sports	College Basketball			
+	623	620	Interest | Sports | College Baseball |	Interest	Sports	College Sports	College Baseball			
+	624	607	Interest | Sports | Cricket |	Interest	Sports	Cricket				
+	625	607	Interest | Sports | Cycling |	Interest	Sports	Cycling				
+	626	607	Interest | Sports | Darts |	Interest	Sports	Darts				
+	627	607	Interest | Sports | Disabled Sports |	Interest	Sports	Disabled Sports				
+	628	607	Interest | Sports | Diving |	Interest	Sports	Diving				
+	629	607	Interest | Sports | Equine Sports |	Interest	Sports	Equine Sports				
+	630	629	Interest | Sports | Horse Racing |	Interest	Sports	Equine Sports	Horse Racing			
+	631	607	Interest | Sports | Extreme Sports |	Interest	Sports	Extreme Sports				
+	632	631	Interest | Sports | Canoeing and Kayaking |	Interest	Sports	Extreme Sports	Canoeing and Kayaking			
+	633	631	Interest | Sports | Climbing |	Interest	Sports	Extreme Sports	Climbing			
+	634	631	Interest | Sports | Paintball |	Interest	Sports	Extreme Sports	Paintball			
+	635	631	Interest | Sports | Scuba Diving |	Interest	Sports	Extreme Sports	Scuba Diving			
+	636	631	Interest | Sports | Skateboarding |	Interest	Sports	Extreme Sports	Skateboarding			
+	637	631	Interest | Sports | Snowboarding |	Interest	Sports	Extreme Sports	Snowboarding			
+	638	631	Interest | Sports | Surfing and Bodyboarding |	Interest	Sports	Extreme Sports	Surfing and Bodyboarding			
+	639	631	Interest | Sports | Waterskiing and Wakeboarding |	Interest	Sports	Extreme Sports	Waterskiing and Wakeboarding			
+	640	607	Interest | Sports | Fantasy Sports |	Interest	Sports	Fantasy Sports				
+	641	607	Interest | Sports | Field Hockey |	Interest	Sports	Field Hockey				
+	642	607	Interest | Sports | Figure Skating |	Interest	Sports	Figure Skating				
+	643	607	Interest | Sports | Fishing Sports |	Interest	Sports	Fishing Sports				
+	644	607	Interest | Sports | Golf |	Interest	Sports	Golf				
+	645	607	Interest | Sports | Gymnastics |	Interest	Sports	Gymnastics				
+	646	607	Interest | Sports | Hunting and Shooting |	Interest	Sports	Hunting and Shooting				
+	647	607	Interest | Sports | Ice Hockey |	Interest	Sports	Ice Hockey				
+	648	607	Interest | Sports | Inline Skating |	Interest	Sports	Inline Skating				
+	649	607	Interest | Sports | Lacrosse |	Interest	Sports	Lacrosse				
+	650	607	Interest | Sports | Martial Arts |	Interest	Sports	Martial Arts				
+	651	607	Interest | Sports | Olympic Sports |	Interest	Sports	Olympic Sports				
+	652	651	Interest | Sports | Summer Olympic Sports |	Interest	Sports	Olympic Sports	Summer Olympic Sports			
+	653	651	Interest | Sports | Winter Olympic Sports |	Interest	Sports	Olympic Sports	Winter Olympic Sports			
+	654	607	Interest | Sports | Poker and Professional Gambling |	Interest	Sports	Poker and Professional Gambling				
+	655	607	Interest | Sports | Rodeo |	Interest	Sports	Rodeo				
+	656	607	Interest | Sports | Rowing |	Interest	Sports	Rowing				
+	657	607	Interest | Sports | Rugby |	Interest	Sports	Rugby				
+	658	657	Interest | Sports | Rugby League |	Interest	Sports	Rugby	Rugby League			
+	659	657	Interest | Sports | Rugby Union |	Interest	Sports	Rugby	Rugby Union			
+	660	607	Interest | Sports | Sailing |	Interest	Sports	Sailing				
+	661	607	Interest | Sports | Skiing |	Interest	Sports	Skiing				
+	662	607	Interest | Sports | Snooker/Pool/Billiards |	Interest	Sports	Snooker/Pool/Billiards				
+	663	607	Interest | Sports | Soccer |	Interest	Sports	Soccer				
+	664	607	Interest | Sports | Softball |	Interest	Sports	Softball				
+	665	607	Interest | Sports | Sports Equipment |	Interest	Sports	Sports Equipment				
+	666	607	Interest | Sports | Squash |	Interest	Sports	Squash				
+	667	607	Interest | Sports | Swimming |	Interest	Sports	Swimming				
+	668	607	Interest | Sports | Table Tennis |	Interest	Sports	Table Tennis				
+	669	607	Interest | Sports | Tennis |	Interest	Sports	Tennis				
+	670	607	Interest | Sports | Track and Field |	Interest	Sports	Track and Field				
+	671	607	Interest | Sports | Volleyball |	Interest	Sports	Volleyball				
+	672	607	Interest | Sports | Walking |	Interest	Sports	Walking				
+	673	607	Interest | Sports | Water Polo |	Interest	Sports	Water Polo				
+	674	607	Interest | Sports | Weightlifting |	Interest	Sports	Weightlifting				
+	675	607	Interest | Sports | Wrestling |	Interest	Sports	Wrestling				
+	338	206	Interest | Careers	Interest	Careers					
+	339	338	Interest | Careers | Apprenticeships |	Interest	Careers	Apprenticeships				
+	340	338	Interest | Careers | Career Advice |	Interest	Careers	Career Advice				
+	341	338	Interest | Careers | Career Planning |	Interest	Careers	Career Planning				
+	342	338	Interest | Careers | Remote Working |	Interest	Careers	Remote Working				
+	343	338	Interest | Careers | Vocational Training |	Interest	Careers	Vocational Training				
+	344	258	Interest | Education	Interest	Education					
+	345	344	Interest | Education | Adult Education |	Interest	Education	Adult Education				
+	346	344	Interest | Education | Language Learning |	Interest	Education	Language Learning				
+	347	344	Interest | Education | Online Education |	Interest	Education	Online Education				
+	348	206	Interest | Family and Relationships	Interest	Family and Relationships					
+	350	348	Interest | Family and Relationships | Parenting |	Interest	Family and Relationships	Parenting				
+	352	350	Interest | Family and Relationships | Daycare and Pre-School |	Interest	Family and Relationships	Parenting	Daycare and Pre-School			
+	353	350	Interest | Family and Relationships | Internet Safety |	Interest	Family and Relationships	Parenting	Internet Safety			
+	354	350	Interest | Family and Relationships | Parenting Babies and Toddlers |	Interest	Family and Relationships	Parenting	Parenting Babies and Toddlers			
+	355	350	Interest | Family and Relationships | Parenting Children Aged 4-11 |	Interest	Family and Relationships	Parenting	Parenting Children Aged 4-11			
+	356	350	Interest | Family and Relationships | Parenting Teens |	Interest	Family and Relationships	Parenting	Parenting Teens			
