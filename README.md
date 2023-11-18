@@ -7,6 +7,14 @@ THIS IS JUST A DEMO APPLICATION FOR MY OWN LEARNING AND IS INTENDED IN NO WAY TO
 ### Video
 [streamlit-about-2023-11-18-11-11-14.webm](https://github.com/ChristianJohnston97/GPTTest/assets/25692533/e0b78ac8-ed46-4545-8a26-e9c0a30b58fc)
 
+### Project Goals
+The goal of this project was to develop a system which would take in an RFP as input and the AI-powered tool would do 
+everything else:
+1. Extract key targeting requirements, demographic info, location info and keywords 
+2. Use GPT-functions to make database calls to retrieve insights and key stats 
+3. Generate RFP response
+
+**This shortens the time taken to create a brief response from hours to seconds**
 
 ### Background
 In the digital advertising industry, advertisers want to target particular users based 
@@ -34,15 +42,6 @@ Advances in AI/LLM capabilities are well suited to a task like this due their ca
 - Natural language processing and data extractions
 - Semantic analysis 
 - Text generation capabilities 
-
-### Project Goals
-The goal of this project was to develop a system which would take in an RFP as input and the AI-powered tool would do 
-everything else:
-1. Extract key targeting requirements, demographic info, location info and keywords 
-2. Use GPT-functions to make database calls to retrieve insights and key stats 
-3. Generate RFP response
-
-This shortens the time taken to create a brief response from hours to seconds.
 
 ### Technologies Used
 - Python & Streamlit
