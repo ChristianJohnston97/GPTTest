@@ -1,7 +1,7 @@
 
 ## Digital Advertising AI-powered Sales Assistant 
 
-### Disclaimed
+### Disclaimer
 THIS IS JUST A DEMO APPLICATION FOR MY OWN LEARNING AND IS INTENDED IN NO WAY TO BE COMERCIALISED.
 
 ### Video
